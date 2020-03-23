@@ -1,2 +1,2 @@
 # doxasticengine
-Ontology and Inference Engine for Reasoning over Doxastic Knowledge Graphs
+Ontology and inference engine for reasoning over doxastic knowledge graphs
